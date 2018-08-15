@@ -1,0 +1,73 @@
+.div1 {
+    width: 322px;
+    height: 515px;
+    z-index: 1;
+    /* position: absolute;
+    top:50%; */
+    background: #00ff00;
+    clip-path: polygon(65% 14%, 59% 10%, 52% 14%);
+}
+
+  .div2 {
+    width: 322px;
+    height: 515px;
+    background: #00ff00;
+    clip-path: polygon(48% 14%, 42% 10%, 36% 14%);
+    z-index: 1;
+  }
+
+  .div3 {
+    width: 322px;
+    height: 515px;
+    background: #1A1A1A;
+    clip-path: polygon(77% 16%, 50% 0, 23% 16%);
+  }
+
+  .div4 {
+    width: 322px;
+    height: 515px;
+    background: #666666;
+    clip-path: polygon(77% 16%, 51% 32%, 23% 16%);  
+}
+
+  .div5 {
+    width: 322px;
+    height: 515px;
+    background: #b3b3b3;
+    clip-path: polygon(18% 43%, 3% 84%, 0 52%);  
+}
+
+  .div6 {
+    width: 322px;
+    height: 515px;
+    background: #ba0000;
+    clip-path: polygon(13% 62%, 50% 100%, 19% 43%);  
+}
+
+  .div7 {
+    width: 322px;
+    height: 515px;
+    background: #990000;
+    clip-path: polygon(50% 34%, 81% 43%, 19% 43%);  
+}
+
+  .div8 {
+    width: 322px;
+    height: 515px;
+    background: red;
+    clip-path: polygon(50% 100%, 81% 43%, 19% 43%);  
+}
+
+  .div9 {
+    width: 322px;
+    height: 515px;
+    background: orange;
+    clip-path: polygon(50% 100%, 87% 60%, 81% 43%);  
+}
+
+.div10{
+  width:322px;
+  height: 515px;
+  background-color:#e6e6e6;
+  clip-path: polygon(97% 82%, 82% 43%, 100% 53%);
+}
