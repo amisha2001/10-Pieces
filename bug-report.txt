@@ -1,0 +1,1 @@
+animation should be placed in center of the page and animation delay is not appropriate
